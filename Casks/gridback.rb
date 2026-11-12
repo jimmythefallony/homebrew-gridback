@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "gridback" do
-  version "0.3.1"
-  sha256 "fefaf7f0398c4f96fdbf06688f56cb62e5e4a3b9760e8949f0652a58b669274d"
+  version "0.3.2"
+  sha256 "59c7a2f4f08bc32806e9febc6080914048bdcee6e37c8c90f60e33ed1b6ea688"
 
   url "https://github.com/jimmythefallony/gridback/releases/download/v#{version}/GridBack-v#{version}.zip"
   name "GridBack"
